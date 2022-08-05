@@ -1,7 +1,8 @@
 ###################################
-# File  : dewin.ps1
-# Author: Avishek Dutta
-# URL  : https://github.com/avishekdutta531/dewin/
+# File    : dewin.ps1
+# Author  : Avishek Dutta
+# URL     : https://github.com/avishekdutta531/dewin/
+# LICENSE : MIT license
 ###################################
 
 # Writing Message
